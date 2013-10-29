@@ -3,6 +3,13 @@
 Google Chrome extension to replace to word "now" with "meow".
 Forked from [panicsteve/cloud-to-butt](https://github.com/panicsteve/cloud-to-butt).
 
+## Screenshots
+
+[Now to Meow on tumblr](http://now-to-meow.tumblr.com/)
+
+Have a good screenshot? Drop it in and I'll post it [http://dbinbox.com/jeremymouton](http://dbinbox.com/jeremymouton)
+
+
 ## Installation
 
 ### From the Chrome Web Store
