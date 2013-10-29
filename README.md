@@ -5,7 +5,13 @@ Forked from [panicsteve/cloud-to-butt](https://github.com/panicsteve/cloud-to-bu
 
 ## Installation
 
-This repo isn't packaged as a ".crx" extension (working on getting that from Google). Installing it currently requires enabling "Developer mode" from the extensions' page. 
+### From the Chrome Web Store
+
+[Install from the Chrome Web Store](https://chrome.google.com/webstore/detail/now-to-meow/elngnopokeojkeojolnennkikbdlfjnd/)
+
+### From this repo
+
+The repo isn't packaged as a ".crx" extension. Installing it as-is requires enabling "Developer mode" from the extensions' page.
 
 1. Download this repo as a zip file and unzip it.
 2. Click the "Load unpacked extensions..." button from the extensions' page.
